@@ -1,0 +1,514 @@
+.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+  /* margin: 0; */
+  padding: 0px !important;
+  margin: 0px !important;
+  width: 255px !important;
+}
+
+input.MuiInputBase-input.MuiInput-input.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+  display: none !important;
+}
+
+.MuiStack-root.bisplay-block {
+  display: block !important;
+}
+.maiDiv {
+  max-width: 100% !important;
+  /* margin: 0 auto; */
+
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.view-main {
+  display: flex;
+  justify-content: space-between;
+}
+.view-mainright h4 {
+  font-size: 24px;
+  margin: 0;
+  font-weight: 500;
+}
+.view-mainright h3 {
+  font-size: 34px;
+  margin: 0;
+}
+.view-mainright {
+  padding: 9px;
+}
+
+.date {
+  margin-top: 5px;
+}
+
+.font-size-15 {
+  font-size: 15px;
+}
+
+.font-size-15 h1 {
+  font-size: 21px;
+  font-weight: normal;
+}
+
+.date .sdiv {
+  border: none;
+  padding: 0;
+  text-transform: capitalize;
+  font-size: 14px;
+  font-weight: normal;
+}
+.date .sdiv h4 {
+  font-weight: none;
+  margin: 0px 10px 0 0;
+}
+
+.date .sdiv h4 span {
+  color: #395ba9;
+  font-weight: 600;
+}
+
+.header-logo-search {
+  display: flex;
+}
+
+.avatar-box > div {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.react-datepicker__input-container .myDatePicker {
+  font-size: 16px;
+}
+
+.avatar-box > div svg {
+  color: #000;
+  margin: 0;
+}
+.new-sale .MuiBox-root {
+  padding: 0;
+}
+
+.customer-title {
+  font-size: 15px;
+  color: #8d96ae;
+  font-weight: 500;
+}
+
+.custome-text .MuiInputBase-root {
+  padding: 0;
+  padding-right: 0px;
+  margin-top: 10px;
+}
+
+.table-outer .MuiTableContainer-root {
+  overflow-x: hidden !important;
+}
+
+.customer-title + span {
+  font-size: 16px;
+  color: #5a6873 !important;
+  font-weight: 600;
+}
+
+fieldset .MuiOutlinedInput-notchedOutline {
+  height: 50px;
+}
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiSelect-icon.MuiSelect-iconOutlined {
+  top: calc(50% - 0.8em) !important;
+}
+
+.select-height .MuiSelect-select {
+  height: 33px;
+}
+
+.MuiOutlinedInput-notchedOutline legend {
+  display: none !important;
+}
+
+.user-property-title + span {
+  font-size: 14px;
+  font-weight: 500;
+  color: #5a6873 !important;
+}
+
+#demo-simple-select {
+  height: 50px !important;
+  border-radius: 5px;
+  padding: 0 15px !important;
+  line-height: 50px;
+}
+
+.user-property-title {
+  color: #8d96ae;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.MuiList-root.MuiList-padding.sidebar-box {
+  padding: 8px 10px;
+}
+.sidebar-link > div > div:first-child {
+  display: none;
+}
+
+body .new-sale .MuiOutlinedInput-root.MuiInputBase-sizeSmall {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  padding-right: 0px;
+}
+
+header.MuiPaper-root.sder {
+  background: #ffffff !important;
+  border-bottom: 1px solid #ededed !important;
+}
+.MuiInputBase-root.inbar {
+  width: fit-content;
+  /* width: 94%; */
+  width: 278px !important;
+  height: 40px !important;
+  /* left: 272px; */
+  top: 11px !important;
+  background: #f2f2f2 !important;
+  border: 1px solid #d6d6d6 !important;
+  border-radius: 25px !important;
+}
+
+header.MuiPaper-root.sder {
+  background: #ffffff !important;
+  border-bottom: 1px solid #ededed !important;
+  padding: 10px 17px 0;
+  box-shadow: none;
+}
+
+body span.dashboardsmallHeading {
+  color: #1a70c5;
+}
+
+table th {
+  font-size: 15px !important;
+  color: #5a6873 !important;
+  font-weight: 700 !important;
+}
+table th p {
+  font-size: 15px !important;
+  color: #5a6873 !important;
+  font-weight: 700 !important;
+}
+
+.data-table-inner-item {
+  padding-bottom: 35px;
+}
+
+.boder-bottom {
+  border-bottom: 1px solid #eee;
+}
+
+body .Dcredit {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 0;
+  margin-top: 14px;
+  padding: 0 22px;
+  margin-bottom: 25px;
+}
+
+.action button {
+  width: 35px;
+  height: 35px;
+  border: 1px solid;
+  border-radius: 5px;
+  line-height: 35px;
+  min-width: 35px;
+  margin: 0 3px;
+}
+.action button.action-view {
+  border-color: #26ceb3;
+}
+.action button.action-edit {
+  border-color: #dfbf19;
+}
+.action button.action-delete {
+  border-color: #f95a37;
+}
+.action button svg {
+  float: left;
+  width: 24px;
+}
+
+.action button.action-view svg {
+  color: #26ceb3;
+}
+
+.action button.action-edit svg {
+  color: #dfbf19;
+}
+
+.action button.action-delete svg {
+  color: #f95a37;
+}
+
+table th td {
+  color: #5a6873 !important;
+  border: none !important;
+}
+
+table td {
+  color: #5a6873 !important;
+  border: none !important;
+  font-size: 14px !important;
+}
+
+table td a {
+  color: #1a70c5 !important;
+  cursor: pointer;
+}
+.border-round {
+  border-radius: 10px;
+  border: 1px solid #eee;
+}
+
+.data-table-inner-item .MuiContainer-root {
+  padding: 0 22px;
+}
+
+.padding-22 {
+  padding: 0 22px;
+}
+.box-show-no {
+  box-shadow: none !important;
+}
+
+.box-shadow {
+  box-shadow: 0px 0px 14px 6px #eceef4 !important;
+}
+
+.padding-le-ri-zero {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.inputBar.search-box .search-box-outer {
+  border: 1px solid #f1f1f1 !important;
+  background: #f2f2f2 url(../public/search.png) no-repeat 95% center !important;
+}
+
+body .guardianBar {
+  margin-top: 79px;
+  min-height: 100vh;
+}
+
+.inputBar.search-box .search-box-outer fieldset {
+  border: none !important;
+}
+.sidebar-link > div svg {
+  margin-right: 8px;
+  /* fill: #7d86a5; */
+}
+.mainbgcss ul.MuiList-root li .MuiButtonBase-root:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: #1976d2 !important;
+  color: #fff;
+}
+
+.mainbgcss ul li > div > li > div:first-child {
+  display: none;
+}
+
+body .MuiTableContainer-root {
+  overflow: visible;
+}
+
+.sidebar-link > div svg {
+  width: 21px;
+}
+.sidebar-link > div {
+  display: flex;
+  align-items: center;
+  color: #7d86a5;
+  border-radius: 25px;
+  margin-left: 2px;
+  padding: 0 13px;
+  min-height: 35px;
+}
+
+body .button-new {
+  width: 201px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.mainbgcss ul li {
+  margin-bottom: 7px;
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-grey {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
+
+body h3.MuiTypography-h3 {
+  font-size: 24px;
+  color: #333333;
+}
+
+body h4.MuiTypography-h4 {
+  font-size: 20px;
+  color: #333333;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-bottom: 7px;
+}
+
+.filter-list > div {
+  font-size: 16px;
+  color: #5a6873;
+  margin-right: 25px;
+}
+
+.filter-list > div.filter-active {
+  color: #f95a37;
+}
+
+.fimport-export-box > div > li {
+  color: #1a70c5;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0 15px;
+  border-left: 1px solid #ccc;
+}
+
+.fimport-export-box > div:first-child > li {
+  border: none;
+}
+
+.fimport-export-box > div:last-child > li {
+  border: none;
+}
+
+.fimport-export-box > div > li svg {
+  float: left;
+  font-size: 17px;
+}
+
+.t-name {
+  width: 18%;
+}
+
+.delete-popup-close {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
+}
+
+.delete-popup-close button {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.delete-popup-close .cross-button:hover {
+  background: none !important;
+}
+
+body #profileImage {
+  border-radius: 20px;
+}
+
+h4.status-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 7px;
+  margin-bottom: 6px;
+}
+
+.date-box,
+.purchase-box {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.date-box span,
+.purchase-box span {
+  width: 150px;
+  display: inline-block;
+}
+
+.status-box {
+  background: #1a70c5;
+  height: 24px;
+  display: inline-block;
+  padding: 0 15px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 500;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.invoice-table td,
+.invoice-table th {
+  border: 1px solid #ccc !important;
+}
+
+.invoice-table th {
+  text-transform: uppercase;
+}
+.guardianBar .MuiGrid-root > .MuiPaper-root {
+  box-shadow: 0px 0px 14px 6px rgba(236, 238, 244, 1) !important;
+}
+
+.comment input {
+  height: 110px !important;
+}
+
+.delete-popup
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper {
+  width: 444px;
+}
+
+.delete-popup
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper
+  h2 {
+  border-bottom: 1px solid #ccc;
+}
+
+body .ql-editor {
+  min-height: 105px;
+}
+
+.avatar-box {
+  position: relative;
+}
+
+.text-line {
+  white-space: nowrap;
+}
+
+body .drop-down-profile {
+  position: absolute;
+  right: 0;
+  background: #fff;
+  text-align: left;
+}
+
+.MuiList-root.MuiList-padding.bisplay-block.drop-down-profile {
+  display: block !important;
+}

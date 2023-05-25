@@ -1,0 +1,316 @@
+#demo-popup-menu
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiMenu-paper.MuiPaper-elevation8.MuiPopover-paper,
+#demo-popup-popover
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiMenu-paper.MuiPaper-elevation8.MuiPopover-paper {
+  position: absolute;
+  left: 290px !important;
+  width: calc(100% - 353px);
+  background: #f4f4f4;
+  top: 272px !important;
+  box-shadow: none;
+  text-align: left;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+label {
+  font-size: 16px !important;
+  color: #5a6873 !important;
+  font-weight: 500 !important;
+}
+.react-datepicker__input-container input {
+  border: 1px solid rgba(0, 0, 0, 0.23) !important;
+}
+
+.sub-child-box {
+  display: flex;
+}
+
+.Child-cust {
+  width: 20px;
+  height: 20px;
+}
+
+body .ql-toolbar.ql-snow + .ql-container.ql-snow {
+  border-top: 0px;
+  min-height: 105px;
+}
+
+input {
+  height: 50px !important;
+  border-radius: 5px;
+  padding: 0 15px !important;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg.filter-box,
+.MuiContainer-root.MuiContainer-maxWidthLg {
+  width: 100%;
+  max-width: 100%;
+}
+
+.form-filter label {
+  font-size: 16px;
+  font-weight: 600;
+  color: #5a6873;
+}
+
+.form-filter
+  .MuiFormControl-root.MuiFormControl-fullWidth
+  .MuiInputBase-formControl,
+.form-filter
+  .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-formControl,
+.form-filter
+  .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-multiline,
+.form-filter
+  .MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary {
+  background: #fff;
+  height: 56px;
+}
+
+.MuiAutocomplete-endAdornment {
+  top: calc(26% - 14px) !important;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg {
+  max-width: 100%;
+  padding: 0;
+}
+.buycss .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  text-transform: none;
+}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.filtercss {
+  display: flex !important;
+}
+.resetfiltercss {
+  margin-left: 10px;
+}
+.salesStatus {
+  font-size: 14px;
+  color: rgb(2, 197, 9) !important;
+  font-weight: 600;
+}
+.salesPendingstatus {
+  font-size: 14px;
+  color: rgb(249 52 43) !important;
+  font-weight: 600;
+}
+.btndetail {
+  height: 20px !important;
+  font-size: 10px !important;
+  text-transform: none !important;
+  color: #528b2f !important;
+  background: #d7fddd !important;
+  font-weight: 700 !important;
+}
+.invcss {
+  color: #2bd1e2 !important;
+}
+.paidcss {
+  height: 29px !important;
+  text-transform: none !important;
+  margin-bottom: 4px !important;
+  margin-left: 5px;
+}
+
+.linecss {
+  border-bottom: 1px solid #d3cccc;
+  margin-top: 10px;
+}
+body .confirmcss {
+  margin-top: 18px;
+  margin-left: 27px;
+}
+body .deleteusercss {
+  margin-top: 18px;
+  margin-left: 27px;
+}
+
+body
+  .MuiSelect-select.MuiSelect-outlined.MuiInputBase-input.MuiOutlinedInput-input {
+  box-sizing: border-box;
+  height: 50px;
+}
+.copycss {
+  min-width: 33px !important;
+}
+.darkBgCss {
+  background: #ebebeb !important;
+}
+span.addsales {
+  border-top: 1px solid darkgrey;
+  margin-top: 30px;
+}
+.MuiCheckbox-root.MuiCheckbox-colorPrimary.checkbox132 {
+  margin-left: -10px !important;
+}
+
+.MuiInputLabel-root.MuiInputLabel-animated.paymentcolor {
+  color: #3ba306 !important;
+}
+footer.footermain {
+  text-align: center;
+}
+.trans {
+  display: inline-flex;
+  align-items: center;
+}
+
+.pending-invoice .MuiBox-root {
+  padding: 0;
+}
+p.pendingcss {
+  font-size: smaller;
+  margin-left: 0px;
+  font-weight: 500;
+  margin-top: 1;
+  color: #0ce1e1;
+  padding: 0 0px;
+  margin-top: 0;
+}
+
+.table-outer td,
+.table-outer th {
+  padding: 10px;
+}
+.btn.credit-request .btn button {
+  border: 1px solid #26ceb3;
+  white-space: nowrap;
+  color: #26ceb3;
+  height: 35px;
+}
+.table-box th,
+.table-box td {
+  border: 1px solid #ededed !important;
+  padding: 10px 15px;
+  font-size: 15px !important;
+  color: rgba(0, 0, 0, 0.6) !important;
+}
+.table-box th p {
+  font-size: 15px !important;
+  color: #5a6873 !important;
+}
+h4.h4heading {
+  text-align: left;
+  color: black;
+  font-size: 16px;
+  margin-bottom: 0;
+}
+p.actpara {
+  text-align: left;
+  font-weight: 500;
+  font-size: 13px !important;
+  margin-top: 0px;
+  color: grey;
+}
+.headingmargin {
+  margin-left: 115px;
+}
+.paradate {
+  font-size: 12px !important;
+  text-transform: uppercase;
+}
+.paradate1 {
+  color: orangered !important;
+  font-size: 12px !important;
+  text-transform: uppercase;
+}
+
+.payment-form div span.label-box {
+  width: 100%;
+  /* background: #e7f2ff; */
+  padding: 11.8px;
+  border: 1px solid #cad4df;
+  border-radius: 4px;
+  color: rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+}
+.btnCustomerdetail {
+  height: 34px !important;
+  font-size: 15px !important;
+  text-transform: none !important;
+  color: #ffffff !important;
+  background: #3cddb8 !important;
+  font-weight: 700 !important;
+}
+.btnCustomerdetail1 {
+  height: 34px !important;
+  font-size: 15px !important;
+  text-transform: none !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  width: 80px !important;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.cardcss.css-1sir9cm-MuiPaper-root {
+  background: #f5f5f5 !important;
+  box-shadow: none !important;
+}
+.btnCustomerdetailPay {
+  height: 36px !important;
+  font-size: 13px !important;
+  text-transform: none !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  width: 100px !important;
+}
+
+.MuiTable-root thead th:last-child {
+  width: 150px;
+}
+
+#profileImage.customer-profile {
+  width: 110px;
+  height: 110px;
+  line-height: 110px;
+}
+.composer-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.composer-top > div {
+  width: 33.33%;
+}
+
+.composer-top > div div {
+  width: 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-left: 0 !important;
+  margin: 0;
+  right: 0 !important;
+}
+
+.composer-top > div div button {
+  float: right;
+}
+
+.composer-top > p {
+  margin-top: 66px;
+}
+
+.composer-top > div div label {
+  margin-bottom: 13px;
+}
+
+.composer-top .MuiOutlinedInput-notchedOutline {
+  height: 50px;
+  top: 0;
+}
+
+.composer-top > div div.customer-name div {
+  height: 50px;
+  padding: 0 !important;
+}
+
+input[type="search"] + fieldset.MuiOutlinedInput-notchedOutline {
+  top: 0 !important;
+}
+
+.composer-top
+  > div
+  .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiSelect-icon.MuiSelect-iconOutlined {
+  top: 11px !important;
+  right: 2px;
+}

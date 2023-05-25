@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.header-navbar1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+  margin-bottom: 35px;
+}
+
+.header-main {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* background: url(../public/login-left.png) no-repeat 0 0;
+  background-size: 100%; */
+}
+
+/* .header-main .header-navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+
+.headre-right-main {
+  display: flex;
+  width: 100%;
+  align-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.login-center > div {
+  width: 100%;
+  max-width: 470px;
+  background: #fff;
+  padding: 15px 20px;
+  margin: 0;
+  border-radius: 15px;
+  
+}
+
+.headre-right-main footer {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.headre-right-main footer p {
+  font-size: 16px;
+  color: #0c140f;
+}
+.headre-right-main footer p a {
+  box-shadow: 0px 0px 3px 1px #99999940;
+  width: 53px;
+  height: 53px;
+  border-radius: 100%;
+  display: inline-block;
+  line-height: 53px;
+  text-align: center;
+}
+
+.headre-right-main footer p a svg {
+  font-size: 21px;
+  margin-top: 16px;
+  display: inline-block;
+}
+
+.headre-right-main .width-full {
+  margin-left: 0;
+}
+
+.header-main .header-navbar2 {
+  display: none;
+}
+
+.header-navbar2 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
+}
+
+button {
+  border-radius: 25px;
+  border: none;
+  height: 3rem;
+  font-weight: 700;
+  padding: 0 12px;
+}
+
+footer {
+  text-align: right;
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+footer a {
+  color: #4b4d50;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 2s linear infinite;
+  margin-top: 18%;
+  margin-left: 45%;
+  background-color: #4b4d50;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 480px) {
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+}
+
+@media (min-width: 1281px) {
+}
+
+@media screen and (max-width:768px) {
+  .forgotPasswordAlignment {
+    max-width:350px !important
+  }
+}
+
+@media screen and (max-width:768px) {
+.forgotPasswordAlignmentFont {
+  font-size: 25px !important;
+}
+}

@@ -1,0 +1,23 @@
+.err_str {
+  color: red;
+}
+.loadingcss {
+  margin: 0 auto !important;
+  margin-top: 15% !important;
+  margin-left: 50% !important;
+  margin-bottom: 15% !important;
+}
+
+#profileImage {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #004d3c;
+  font-size: 3.5rem;
+  color: #fff;
+  text-align: center;
+  line-height: 100px;
+  margin: 1rem 0;
+  min-width: 100px;
+}
